@@ -7,4 +7,4 @@ nav:
   - About: about.md
 theme:
   name: dracula
-
+  logo: assets/img/side-min-min.png
