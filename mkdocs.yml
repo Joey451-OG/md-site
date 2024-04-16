@@ -1,0 +1,10 @@
+site_name: JosephGarneau.com
+site_url: https://josephgarneau.com
+dev_addr: 'localhost:8060'
+
+nav:
+  - Home: index.md
+  - About: about.md
+theme:
+  name: dracula
+
