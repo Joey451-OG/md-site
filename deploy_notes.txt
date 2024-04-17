@@ -2,5 +2,5 @@ Once the site is compiled with: mkdocs build
 
 Move the newly created contents of the site folder to:
 /var/www/html
-and
+and move the old contents of the html folder to:
 ~/webBACKUP/
