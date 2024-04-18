@@ -10,4 +10,6 @@ Thanks for visiting!! -Joey
 ---
 # The Blog
 ## April 15, 2024
-Whew, what a week. 
+Whew, what a week.   
+
+(Joey from the future here, I never ended up finishing this post. Lol oh well.)
