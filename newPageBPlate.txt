@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="/css/styles.css">
+        <title>SHORT TEMP TITLE</title>
+    </head>
+
+    <body>
+        <center>
+            <h1>*<+>{: TEMP TITLE :}<+>*</h1>
+        </center>
+
+        <div id="mainarea">
+            
+        </div>
+        <center>
+            <p>
+                <a href="/index.html">back to home page</a>
+            </p>
+        </center>
+    </body>
+</html>

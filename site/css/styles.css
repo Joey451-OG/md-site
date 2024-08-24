@@ -1,0 +1,34 @@
+body {
+    background-image: url("/media/img/background_texture.jpg");
+}
+
+#siteheader {
+    color: red;
+}
+
+#mainarea {
+    margin: auto;
+    border-style: double;
+    border-width: medium;
+    width: 90vw;
+    height: 80vh;
+    padding: 15px;
+}
+
+#c_text {
+    text-align: center;
+}
+
+ul.navbar {
+    list-style-type: none;
+}
+
+li:navbarL {
+    display: inline;
+    float: left;
+}
+
+li:navbarR {
+    display: inline;
+    float: right;
+}

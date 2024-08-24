@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="text/css" rel="stylesheet" href="/css/styles.css">
+        <title>Screen Settings</title>
+    </head>
+
+    <body>
+        <center>
+            <h1>*<+>{: Website Screen Resolution :}<+>*</h1>
+        </center>
+
+        <div id="mainarea">
+            <h2>Why do I need to change my window size?</h2>
+            <p>
+                This website was designed for a specific aspect ratio (4:3). Additionally, most
+                likely your current window resolution is 16:9. You may experience some spacing and other minor
+                visual errors. Click the button bellow to open a new window with in the correct aspect ratio.
+                To mobile users, this website is absolutely <i>not</i> designed for viewing on your device. Please
+                switch to a more capable machine.
+            </p>
+
+            <button onclick="openWindow()">
+                Open Window
+            </button>
+
+            <script>
+                var userWindow;
+
+                function openWindow() {
+                    userWindow = window.open("https://www.josephgarneau.com", "", "resizable=no, width=1024, height=768");
+                    userWindow.focus();
+                }
+            </script>
+
+            <br><br><br>
+            <a href="https://test.josephgarneau.com">dev web-server</a>
+            <br><br>
+            <a href="/file-index/file-index.html">Full File Index</a>
+
+        </div>
+        
+        <center>
+            <p>
+                <a href="/index.html">back to home page</a>
+            </p>
+        </center>
+    </body>
+</html>
